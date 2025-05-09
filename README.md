@@ -1,2 +1,6 @@
 # ai-interviewer
-An AI-powered interview prep tool that customizes questions using the Google Gemini API, scores answers with BERT, and adjusts difficulty via Reinforcement Learning. It provides feedback to help users improve and prepare confidently for real interviews
+This project presents an **AI-powered** interview preparation app designed to help students and professionals practice job interviews in a realistic and personalized manner. Using the **Google Gemini API**, the app analyzes resumes to tailor domain-specific questions. It evaluates responses with **BERT** for semantic accuracy and grammar, and employs **Reinforcement Learning** to adjust question difficulty dynamically. Additional features include speech-to-text transcription, suggested answers, and detailed feedback. The app aims to improve communication skills and boost interview readiness, though it currently lacks non-verbal analysis and real-time coaching, which are part of the proposed future enhancements.
+
+<p align="center">
+  <img src="main_screen.png" alt="App Preview" width="500"/>
+</p>
