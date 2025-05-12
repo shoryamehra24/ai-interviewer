@@ -5,7 +5,7 @@ This project presents an **AI-powered** interview preparation app designed to he
 
 ## Contributor List
 1. Shorya Mehra
-2.
+2. Vidhika Rangwani
 
 ## Snapshot
 <p align="center">
